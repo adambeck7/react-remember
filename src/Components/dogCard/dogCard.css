@@ -1,0 +1,40 @@
+.imgContainer {
+  height: 300px;
+  width: 300px;
+  overflow: hidden;
+}
+
+.imgPos {
+  width: 100%;
+  text-align: center;
+  padding: 30px;
+  position: absolute;
+}
+
+.imgStyle {
+  display: inline-block;
+  border: 0;
+  width: 100%;
+  height: 200px;
+  position: relative;
+  -webkit-transition: all 200ms ease-in;
+  -webkit-transform: scale(1);
+  -ms-transition: all 200ms ease-in;
+  -ms-transform: scale(1);
+  -moz-transition: all 200ms ease-in;
+  -moz-transform: scale(1);
+  transition: all 200ms ease-in;
+  transform: scale(1);
+}
+
+.imgStyle:hover {
+  z-index: 2;
+  -webkit-transition: all 200ms ease-in;
+  -webkit-transform: scale(1.3);
+  -ms-transition: all 200ms ease-in;
+  -ms-transform: scale(1.3);
+  -moz-transition: all 200ms ease-in;
+  -moz-transform: scale(1.3);
+  transition: all 200ms ease-in;
+  transform: scale(1.3);
+}

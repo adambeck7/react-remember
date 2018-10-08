@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "dogName": "tennisBall",
+    "image": "https://i.imgur.com/xYdMVxT.jpg"
+  },
+  {
+    "id": 2,
+    "dogName": "fight",
+    "image": "https://i.imgur.com/iZJetGz.jpg"
+  },
+  {
+    "id": 3,
+    "dogName": "sitSnow",
+    "image": "https://i.imgur.com/uDY8eEp.jpg"
+  },
+  {
+    "id": 4,
+    "dogName": "snowplow",
+    "image": "https://i.imgur.com/llqqpuH.jpg"
+  },
+  {
+    "id": 5,
+    "dogName": "tub",
+    "image": "https://i.imgur.com/2kfajOV.jpg"
+  },
+  {
+    "id": 6,
+    "dogName": "karateDog",
+    "image": "https://i.imgur.com/PhqZhGR.jpg"
+  },
+  {
+    "id": 7,
+    "dogName": "fall",
+    "image": "https://i.imgur.com/kGHtkZf.jpg"
+  },
+  {
+    "id": 8,
+    "dogName": "snowshake",
+    "image": "https://i.imgur.com/Odi1KjX.jpg"
+  },
+  {
+    "id": 9,
+    "dogName": "puppy",
+    "image": "https://i.imgur.com/mpIR0D7.jpg"
+  },
+  {
+    "id": 10,
+    "dogName": "bite",
+    "image": "https://i.imgur.com/9OAsi2t.jpg"
+  },
+  {
+    "id": 11,
+    "dogName": "bigLittle",
+    "image": "https://i.imgur.com/Cnfzgjy.jpg"
+  },
+  {
+    "id": 12,
+    "dogName": "bone",
+    "image": "https://i.imgur.com/a3OokGp.jpg"
+  }
+]
